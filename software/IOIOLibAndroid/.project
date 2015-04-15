@@ -30,6 +30,13 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>res</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/src/main/res</locationURI>
+		</link>
+	</linkedResources>
 	<variableList>
 		<variable>
 			<name>IOIOLIB</name>
